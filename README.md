@@ -1,5 +1,7 @@
 # API Field Shortcode
 
+(vibecoded but I checked the code)
+
 A small WordPress plugin that adds an `[api_field]` shortcode: it sends a GET request to a URL you specify, reads one field out of the JSON object response, and prints it as plain text.
 
 ```
